@@ -17,8 +17,8 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"ms-python.python",
-				"ms-python.vscode-pylance"
-				// Add other useful extensions like linters, GitLens, etc.
+				"ms-python.vscode-pylance",
+				"ms-toolsai.jupyter"
 			]
 		} 
 	}
